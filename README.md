@@ -10,7 +10,7 @@ This is a simple 3D game made by following the official [Unity Learn "Roll-a-Bal
 
 ## 📦 Download
 
-You can download the game from the [Releases](https://github.com/your-username/your-repo/releases) section.
+You can download the game from the [Releases](https://github.com/tomgly/Roll-a-Ball/releases) section.
 
 > No need to install — just unzip and run the game!
 
